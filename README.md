@@ -1,3 +1,11 @@
+# Azure Static Web Apps
+
+Azure App Service Static Web Apps is a streamlined preview hosting option for developers building modern full-stack JavaScript web apps on Azure. Static Web Apps is tailored for apps with static front-end and optional dynamic back-end powered by Azure Functions serverless APIs. Static Web Apps feature: 
+* A single unified workflow based on GitHub actions from source code to global availability in the cloud
+* Integrated serverless APIs powered by Azure Functions to extend and evolve your app 
+* Authentication and Authorization with flexible role and access definitions
+ 
+To get started, follow the [Static Web Apps quickstart](https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?WT.mc_id=staticwebapps-docs-cxa) to build and deploy your first static web app in minutes. For more info about Static Web Apps, see the [Static Web Apps documentation](https://docs.microsoft.com/en-us/azure/static-web-apps/?WT.mc_id=build2020_swa-docs-cxa) and the guided learning paths in Microsoft Learn for [creating and publishing an Angular, React, Svelte, or Vue JavaScript app and API](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=build2020_swa-frameworks-cxa) or for [creating and publishing an app with the Gatsby static site generator](https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/?WT.mc_id=build2020_swa-sitegen-cxa).
 
 # Contributing
 
