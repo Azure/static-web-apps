@@ -7,9 +7,10 @@ assignees: ''
 
 ---
 
-If you would like to file an issue for the Static Web Apps CLI, please do so here: https://github.com/Azure/static-web-apps-cli/issues
-
 **Describe the bug**
+
+<!-- If you would like to file an issue for the Static Web Apps CLI, please do so here: https://github.com/Azure/static-web-apps-cli/issues -->
+
 A clear and concise description of what the bug is.
 
 **To Reproduce**
@@ -18,6 +19,13 @@ Steps to reproduce the behavior:
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
+
+<!--
+If possible, please provide the following information if relevant (do not include sensitive content):
+- GitHub Actions or Azure Pipelines workflow YAML file
+- staticwebapp.config.json file
+- source repository if it's public
+-->
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.

@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-If you would like to file an issue for the Static Web Apps CLI, please do so here: https://github.com/Azure/static-web-apps-cli/issues
+<!-- If you would like to file an issue for the Static Web Apps CLI, please do so here: https://github.com/Azure/static-web-apps-cli/issues -->
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
