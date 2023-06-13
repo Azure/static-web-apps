@@ -1,0 +1,25 @@
+{
+  "trailingSlash": "auto",
+  "routes": [
+      {
+          "route": "/proxy.pac",
+          "allowedRoles": ["authenticated"]
+      }
+  ],
+  "navigationFallback": {
+      "rewrite": "/index.html",
+      "exclude": ["/images/*.{png,jpg,gif}", "/css/*"]
+  },
+  "globalHeaders": {
+      "content-security-policy": "default-src https: 'unsafe-eval' 'unsafe-inline'; object-src 'none'; frame-ancestors 'none'; base-uri 'none';"
+  },
+  "mimeTypes": {
+      ".pac": "application/x-ns-proxy-autoconfig"
+  },
+  "responseOverrides": {
+      "401": {
+          "rewrite": "/login",
+          "statusCode": 302
+      }
+  }
+}
