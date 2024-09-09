@@ -25,16 +25,15 @@ Boost productivity with native workflows for continuous integration (CI) and con
 
 ### Global Distribution and Dynamic Scale
 
-<table>
-  <tr>
-    <td>
-      Improve global performance with load balancing, SSL offload, and application acceleration using <strong><a href="https://azure.microsoft.com/products/frontdoor?WT.mc_id=javascript-150001-gllemos">Azure Front Door</a></strong>. Build highly scalable serverless APIs using Azure Functions in your preferred language: JavaScript, TypeScript, Python, C#, Java, and PowerShell.
-    </td>
-    <td>
-      <img src="sources/images/global-dynamic.jpg" alt="Azure Static Web Apps Diagram" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="sources/images/global-dynamic.jpg" alt="Azure Static Web Apps Diagram" width="400"/>
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    Improve global performance with load balancing, SSL offload, and application acceleration using **<a href="https://azure.microsoft.com/products/frontdoor?WT.mc_id=javascript-150001-gllemos">Azure Front Door</a>**. Build highly scalable serverless APIs using Azure Functions in your preferred language: JavaScript, TypeScript, Python, C#, Java, and PowerShell.
+  </div>
+</div>
+
 
 
 
