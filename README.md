@@ -1,6 +1,8 @@
 # 🌐 Azure Static Web Apps
 
-![Azure Static Web Apps](/sources/images/appservicestatic.jpg)
+<p align="center">
+  <img src="sources/images/appservicestatic.jpg" alt="Azure Static Web Apps" />
+</p>
 
 **[Azure Static Web Apps](https://learn.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-150001-gllemos)** offers a fast and efficient way to develop and deploy web applications globally! Develop full-stack applications using serverless APIs with ease, security and worldwide scalability. 🚀
 
@@ -13,29 +15,33 @@
 
 ## 🚀 Development Features
 
-### Enhanced Local Experience
+### 🔹Enhanced Local Experience
 
 Use the **[Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=javascript-150001-gllemos)** for a simplified local development experience.
 
-![Visual Studio Code Extension](sources/images/debugging.gif)
+<p align="center">
+  <img src="sources/images/debugging.gif" alt="Visual Studio Code Extension" />
+</p>
 
-### Full CI/CD Integration
+### 🔹Full CI/CD Integration
 
 Boost productivity with native workflows for continuous integration (CI) and continuous deployment (CD).
 
-### Global Distribution and Dynamic Scale
+<p align="center">
+  <img src="sources/images/global-dynamic.jpg" alt="Azure Static Web Apps Diagram" />
+</p>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="sources/images/global-dynamic.jpg" alt="Azure Static Web Apps Diagram" width="400"/>
-  </div>
-  <div style="flex: 2; padding-left: 20px;">
-    Improve global performance with load balancing, SSL offload, and application acceleration using **<a href="https://azure.microsoft.com/products/frontdoor?WT.mc_id=javascript-150001-gllemos">Azure Front Door</a>**. Build highly scalable serverless APIs using Azure Functions in your preferred language: JavaScript, TypeScript, Python, C#, Java, and PowerShell.
-  </div>
-</div>
+### 🔹Global Distribution and Dynamic Scale
 
+Improve global performance with load balancing, SSL offload, and application acceleration using **[Azure Front Door](https://azure.microsoft.com/products/frontdoor?WT.mc_id=javascript-150001-gllemos)**. Build highly scalable serverless APIs using Azure Functions in your preferred language: JavaScript, TypeScript, Python, C#, Java, and PowerShell.
 
+### 🔹Multi-language and Web Framework Support
 
+Deploy your Full-Stack applications in any programming language, including Node.js, Python, .NET, Java, Ruby, PHP, Go, and more. Enjoy built-in support for popular Frontend frameworks like Angular, React, Vue.js, Svelte, and more.
+
+<p align="center">
+  <img src="sources/images/any-language-framework.gif" alt="Azure Static Web Apps Supported Languages" />
+</p>
 
 # Contributing
 
