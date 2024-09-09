@@ -1,11 +1,42 @@
-# Azure Static Web Apps
+# 🌐 Azure Static Web Apps
 
-Azure Static Web Apps is a streamlined hosting option for developers building modern frontend web apps on Azure. Azure Static Web Apps is tailored for apps with static front-end and optional dynamic back-end powered by Azure Functions serverless APIs. Azure Static Web Apps feature: 
-* A single unified workflow based on GitHub actions from source code to global availability in the cloud
-* Integrated serverless APIs powered by Azure Functions to extend your app with full-stack functionality
-* Authentication and Authorization with flexible role and access definitions
- 
-To get started, follow the [Static Web Apps quickstart](https://docs.microsoft.com/en-us/azure/static-web-apps/getting-started?WT.mc_id=staticwebapps-docs-cxa) to build and deploy your first static web app in minutes. For more info about Static Web Apps, see the [Static Web Apps documentation](https://docs.microsoft.com/en-us/azure/static-web-apps/?WT.mc_id=build2020_swa-docs-cxa) and the guided learning paths in Microsoft Learn for [creating and publishing an Angular, React, Svelte, or Vue JavaScript app and API](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=build2020_swa-frameworks-cxa).
+![Azure Static Web Apps](/sources/images/appservicestatic.jpg)
+
+**[Azure Static Web Apps](https://learn.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-150001-gllemos)** offers a fast and efficient way to develop and deploy web applications globally! Develop full-stack applications using serverless APIs with ease, security and worldwide scalability. 🚀
+
+## ✨ Key Benefits
+
+- **🌍 Global Hosting:** Bring your content closer to your users with automated geo-distribution worldwide.
+- **⚡ Integrated Serverless APIs:** Add dynamic APIs to your app using the power of Azure Functions.
+- **🛠️ Streamlined Workflow:** Accelerate your deployment with native integration to GitHub Actions and CI/CD tools.
+- **🧪 Automated Staging Environments:** Automatically create staging versions of your app based on pull requests to preview changes before publishing.
+
+## 🚀 Development Features
+
+### Enhanced Local Experience
+
+Use the **[Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps&WT.mc_id=javascript-150001-gllemos)** for a simplified local development experience.
+
+![Visual Studio Code Extension](sources/images/debugging.gif)
+
+### Full CI/CD Integration
+
+Boost productivity with native workflows for continuous integration (CI) and continuous deployment (CD).
+
+### Global Distribution and Dynamic Scale
+
+<table>
+  <tr>
+    <td>
+      Improve global performance with load balancing, SSL offload, and application acceleration using <strong><a href="https://azure.microsoft.com/products/frontdoor?WT.mc_id=javascript-150001-gllemos">Azure Front Door</a></strong>. Build highly scalable serverless APIs using Azure Functions in your preferred language: JavaScript, TypeScript, Python, C#, Java, and PowerShell.
+    </td>
+    <td>
+      <img src="sources/images/global-dynamic.jpg" alt="Azure Static Web Apps Diagram" />
+    </td>
+  </tr>
+</table>
+
+
 
 # Contributing
 
