@@ -1,9 +1,3 @@
-#  Azure Static Web Apps
-
-<p align="center">
-  <img src="sources/images/appservicestatic.jpg" alt="Azure Static Web Apps" />
-</p>
-
 <div align="center">
   <h1>🌐Azure Static Web Apps</h1>
   <a href="https://learn.microsoft.com/azure/static-web-apps/get-started-portal?tabs=vanilla-javascript&pivots=github&WT.mc_id=javascript-150001-gllemos">Quickstart</a>
@@ -20,6 +14,10 @@
   <br />
   <hr />
 </div>
+
+<p align="center">
+  <img src="sources/images/appservicestatic.jpg" alt="Azure Static Web Apps" />
+</p>
 
 ## 🚀 Welcome to Azure Static Web Apps!
 
