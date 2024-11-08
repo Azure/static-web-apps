@@ -6,7 +6,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://www.youtube.com/playlist?list=PLI7iePan8aH5sy4XTvePIB30yBLE4MEp9">Videos</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://learn.microsoft.com/en-us/samples/browse/?terms=static%20web%20apps">Samples</a>
+  <a href="https://github.com/microsoft/static-web-apps-examples">Samples</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://github.com/Azure/static-web-apps/discussions">Community</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
@@ -19,9 +19,33 @@
   <img src="sources/images/appservicestatic.jpg" alt="Azure Static Web Apps" />
 </p>
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [🚀 Welcome to Azure Static Web Apps!](#-welcome-to-azure-static-web-apps)
+- [🏁 Quickstarts](#-quickstarts)
+- [✨ Key Benefits](#-key-benefits)
+- [🚀 Development Features](#-development-features)
+  - [🔹Enhanced Local Experience](#enhanced-local-experience)
+  - [🔹Full CI/CD Integration](#full-cicd-integration)
+  - [🔹Global Distribution and Dynamic Scale](#global-distribution-and-dynamic-scale)
+  - [🔹Multi-language and Web Framework Support](#multi-language-and-web-framework-support)
+- [📚 Documentation and Development Resources](#-documentation-and-development-resources)
+- [🔐 Security and Compliance](#-security-and-compliance)
+- [💰 Flexible Pricing](#-flexible-pricing)
+- [🗣️ Product Feedback](#️-product-feedback)
+- [🤝 Contributing](#-contributing)
+
+<!-- TOC end -->
+
 ## 🚀 Welcome to Azure Static Web Apps!
 
 **[Azure Static Web Apps](https://learn.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-150001-gllemos)** offers a fast and efficient way to develop and deploy web applications globally! Develop full-stack applications using serverless APIs with ease, security and worldwide scalability. 
+
+## 🏁 Quickstarts
+
+Would you like to learn how to develop and deploy applications with Azure Static Web Apps? If so, we offer numerous code samples across different frameworks and programming languages. Visit the **[Static Web Apps Examples](https://github.com/microsoft/static-web-apps-examples)** repository.
+
+![alt text](./sources/images/static-web-apps-examples.png)
 
 ## ✨ Key Benefits
 
